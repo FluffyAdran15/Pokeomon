@@ -32,8 +32,6 @@ section, footer{
     display:block;
     max-width:800px;
     margin:10px auto;
-    background:white;
-    box-shadow:0 0 10px black;
     font-family: 'ABeeZee', sans-serif;
     text-align: center
 }
