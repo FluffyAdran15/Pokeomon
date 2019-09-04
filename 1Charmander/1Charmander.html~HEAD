@@ -5,7 +5,24 @@
         <meta content = "pokemon, pokemon index, pikachu, pokemon first gen, pokemon info ">
         <link href="" rel="">
         <link href="" rel="">
-        <title>WMP:Bulbasaur</title>
+<<<<<<< HEAD:1Charmander/1Charmander.html
+        <title>WMP: Charmander</title>
+            <link rel="shortcut icon" type="image/x-icon" href="CharmanderTitle.png"/>
+    </Head>
+        <Body> 
+            <header>
+                <img src="..." alt="...">
+                <nav>
+                    <ul>
+                        <li><a href="...">...</a></li>
+                        <li><a href="...">...</a></li>
+                        <li><a href="...">...</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </Body>
+=======
+        <title>WMP:Pikachu</title>
         <link rel="shortcut icon" type="image/x-icon" href=""/>
     </head>
     <body> 
@@ -24,6 +41,7 @@
             </nav>
         </header>
     </body>
+>>>>>>> master:5Pikachu.html
     <footer>
 
     </footer>
