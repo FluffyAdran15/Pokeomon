@@ -5,23 +5,6 @@
         <meta content = "pokemon, pokemon index, pikachu, pokemon first gen, pokemon info, Squirtle, water, ">
         <link href="" rel="">
         <link href="" rel="">
-<<<<<<< HEAD:3Squirtle/3Squirtle.html
-        <title>WMP: Squirtle</title>
-        <link rel="shortcut icon" type="image/x-icon" href="Squirtle.png"/>
-    </Head>
-        <Body> 
-            <header>
-                <img src="..." alt="...">
-                <nav>
-                    <ul>
-                        <li><a href="...">...</a></li>
-                        <li><a href="...">...</a></li>
-                        <li><a href="...">...</a></li>
-                    </ul>
-                </nav>
-            </header>
-        </Body>
-=======
         <title>WMP:Squirtle</title>
         <link rel="shortcut icon" type="image/x-icon" href=""/>
     </head>
@@ -41,7 +24,6 @@
             </nav>
         </header>
     </body>
->>>>>>> master:3Squirtle.html
     <footer>
 
     </footer>

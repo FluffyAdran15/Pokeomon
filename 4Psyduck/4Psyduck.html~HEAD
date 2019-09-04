@@ -5,23 +5,6 @@
         <meta content = "pokemon, pokemon index, pikachu, pokemon first gen, pokemon info ">
         <link href="" rel="">
         <link href="" rel="">
-<<<<<<< HEAD:4Psyduck/4Psyduck.html
-        <title>WMP: Psyduck</title>
-        <link rel="shortcut icon" type="image/x-icon" href="Psyduck.png"
-    </Head>
-        <Body> 
-            <header>
-                <img src="..." alt="...">
-                <nav>
-                    <ul>
-                        <li><a href="...">...</a></li>
-                        <li><a href="...">...</a></li>
-                        <li><a href="...">...</a></li>
-                    </ul>
-                </nav>
-            </header>
-        </Body>
-=======
         <title>WMP:Evee</title>
         <link rel="shortcut icon" type="image/x-icon" href="Evee copy.ico"/>
     </head>
@@ -41,7 +24,6 @@
             </nav>
         </header>
     </body>
->>>>>>> master:7Eviee_Info.html
     <footer>
 
     </footer>
