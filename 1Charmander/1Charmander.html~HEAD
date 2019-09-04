@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset = 'utf-8'>
+        <meta content = "pokemon, pokemon index, pikachu, pokemon first gen, pokemon info ">
+        <link href="" rel="">
+        <link href="" rel="">
+<<<<<<< HEAD:1Charmander/1Charmander.html
+        <title>WMP: Charmander</title>
+            <link rel="shortcut icon" type="image/x-icon" href="CharmanderTitle.png"/>
+    </Head>
+        <Body> 
+            <header>
+                <img src="..." alt="...">
+                <nav>
+                    <ul>
+                        <li><a href="...">...</a></li>
+                        <li><a href="...">...</a></li>
+                        <li><a href="...">...</a></li>
+                    </ul>
+                </nav>
+            </header>
+        </Body>
+=======
+        <title>WMP:Pikachu</title>
+        <link rel="shortcut icon" type="image/x-icon" href=""/>
+    </head>
+    <body> 
+        <header>
+            <img src="What's_My_Poke.png" alt="logo">
+            <nav>
+                <ul>
+                    <li style="float:right"><a class="active" href="#about">sitemap</a></li><br>
+                    <li style="float:right"><a class="active" href="#about">fire</a></li><br>
+                    <li style="float:right"><a class="active" href="#about">grass</a></li><br>
+                    <li style="float:right"><a class="active" href="#about">water</a></li><br>
+                    <li style="float:right"><a class="active" href="#about">electric</a></li><br>
+                    <li style="float:right"><a class="active" href="#about">fairy</a></li><br>
+                    <li style="float:right"><a class="active" href="#about">normal</a></li><br>
+                </ul>
+            </nav>
+        </header>
+    </body>
+>>>>>>> master:5Pikachu.html
+    <footer>
+
+    </footer>
+</html>
