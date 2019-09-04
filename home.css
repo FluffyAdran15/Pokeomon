@@ -1,6 +1,10 @@
 @import url('https://fonts.googleapis.com/css?family=ABeeZee&display=swap');
+nav {
+    background:black;
+    color:yellow;
+}
 .nav li{
-    display: inline-block;
+display: inline-block;
 }
 nav a {
     color:black; 
@@ -8,10 +12,12 @@ nav a {
     padding:10px;
     display:inline-block;
     transition:.2s;
+    font-family: 'ABeeZee', sans-serif;
 }
 nav a:hover {
-    background:yellow;
+    background:red;
     color:white;
+    font-family: 'ABeeZee', sans-serif;
 }
 body {
     margin:0;
@@ -26,13 +32,11 @@ section, footer{
     display:block;
     max-width:800px;
     margin:10px auto;
-    background:white;
-    box-shadow:0 0 10px black;
     font-family: 'ABeeZee', sans-serif;
     text-align: center
 }
 image{
-    position: relative;
+    position: fixed;
     display: block;
     margin-left: none;
     margin-right: none;
