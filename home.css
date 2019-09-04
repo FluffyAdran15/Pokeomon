@@ -31,3 +31,10 @@ section, footer{
     font-family: 'ABeeZee', sans-serif;
     text-align: center
 }
+image{
+    position: relative;
+    display: block;
+    margin-left: none;
+    margin-right: none;
+    width: 50%;
+}
