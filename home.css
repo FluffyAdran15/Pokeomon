@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=ABeeZee&display=swap');
+.nav li{
+    display: inline-block;
+}
+nav a {
+    color:black; 
+    text-decoration:none;
+    padding:10px;
+    display:inline-block;
+    transition:.2s;
+}
+nav a:hover {
+    background:yellow;
+    color:white;
+}
+body {
+    margin:0;
+    background-image: url("https://cdn5.vectorstock.com/i/1000x1000/48/09/abstract-background-red-with-white-lines-diagonal-vector-17444809.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size: 1500px 1600px;
+}
+section, footer{
+    padding:20px;
+    display:block;
+    max-width:800px;
+    margin:10px auto;
+    background:white;
+    box-shadow:0 0 10px black;
+    font-family: 'ABeeZee', sans-serif;
+    text-align: center
+}
