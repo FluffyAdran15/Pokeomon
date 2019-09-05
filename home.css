@@ -1,18 +1,28 @@
 @import url('https://fonts.googleapis.com/css?family=ABeeZee&display=swap');
-nav {
-    background:black;
-    color:yellow;
+a img#logo-img {
+    float: left;
+    display: block;
+    width: 400px;
+    height: 180px;
 }
-.nav li{
-display: inline-block;
+nav.nav-bar {
+width: 60%;
+float: left;
+display: block;
+}
+nav.nav-bar ul li {
+    width: 14%;
+    float: left;
+    display: block;
+    
+    
 }
 nav a {
     color:black; 
     text-decoration:none;
-    padding:10px;
-    display:inline-block;
-    transition:.2s;
     font-family: 'ABeeZee', sans-serif;
+    padding:10px;
+    transition: 2;
 }
 nav a:hover {
     background:red;
@@ -33,7 +43,8 @@ section, footer{
     max-width:800px;
     margin:10px auto;
     font-family: 'ABeeZee', sans-serif;
-    text-align: center
+    text-align: center;
+    clear: both;
 }
 image{
     position: fixed;
