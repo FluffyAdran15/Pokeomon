@@ -53,3 +53,9 @@ image{
     margin-right: none;
     width: 50%;
 }
+section.Pokemon div {
+    width:200px;
+    height:200px;
+    border:0;
+    float:left;
+}
